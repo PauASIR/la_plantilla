@@ -1,0 +1,40 @@
+h1
+{
+    color: orange;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 10px;
+    font-size: 80px
+}
+header
+{
+    background-color: black;
+}
+img.vlc
+{
+    height: 70px;
+    width: 50px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+img
+{
+    height: 200px;
+    width: 150px;
+  
+}
+body
+{
+    background-color: tomato;
+}
+h3
+{
+    background-color: yellow;
+    display: inline-block;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 3px;
+}
+section
+{
+    background-color: orange;
+}
